@@ -31,7 +31,7 @@ nav ul li a {
   color: black;
 }
 body {
-  background-image: url(photos/furniture_image2.jpg);
+  background-image: url(furniture_image2.jpg);
   background-repeat: no-repeat;
   /* background-size: auto; */
   background-position: center;
